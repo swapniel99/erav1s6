@@ -33,8 +33,8 @@ By iteratively adjusting the weights and biases based on the gradients, backprop
 ## Effects of learning rate
 - Up to a certain limit increasing learning rate increases convergence rate. It even starts achieving 0 loss after LR=2.
 
-![Gradient](./images/lower LR.png)
+![Gradient](./images/lowerLR.png)
 
 - But after that increasing learning rate causes the network to have trouble converging. As you can see for LR=1000, loss is permanently stuck at upper ceiling of 0.25 after first step.
 
-![Gradient](./images/higher LR.png)
+![Gradient](./images/higherLR.png)
