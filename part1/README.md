@@ -2,7 +2,7 @@
 
 ![Backpropagation](./images/backprop.png)
 
-[Click here to Download Excel](http://github.com/swapniel99/erav1s6/raw/main/part1/ERA%20V1%20S6%20Assignment%20P1.xlsx)
+[Click here to Download Excel](http://github.com/swapniel99/erav1s6/raw/main/part1/S6%20Part1.xlsx)
 
 [Click here to view in Google Sheets](https://docs.google.com/spreadsheets/d/1NMEAmPLYBT2U-2u5Mkx-RauB0dxvmo8T/edit?usp=sharing&ouid=105619550207509869107&rtpof=true&sd=true)
 
