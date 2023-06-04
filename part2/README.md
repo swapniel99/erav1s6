@@ -4,6 +4,8 @@
 
 ![Network](./images/network.png)
 
+[Tool used for above diagram](https://alexlenail.me/NN-SVG/AlexNet.html)
+
 ```
 ============================================================================================================================================
 Layer (type:depth-idx)                   Input Shape               Output Shape              Param #                   Param %
